@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Ajay231296
-- 👀 I’m interested in Data Analytics & Business Analytics
+- 👋 Hi, I’m Ajay Gupta
+- 🎓 Graduated from FMS-BHU in MBA with speacialization in International Business
+- 👀 I’m interested in Business Analytics & Strategic Management
 - 🌱 I’m currently learning SQL & Power BI
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me Whatsapp Only +917355724191
+- 📫 Reach me at Call/ Whatsapp +917355724191
 - 😄 Pronouns: He/Him
 
 <!---
